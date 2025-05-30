@@ -20,7 +20,7 @@ Each circle is rendered with different radii and colors to visualize the perform
 - **OpenMP Parallelization**: Uses 4 threads with static scheduling
 - **Taylor Series Implementation**: Custom mathematical approximations for trigonometric functions
 
-## 🛠Dependencies
+## Dependencies
 
 ### Required Libraries
 - **OpenMP**: For parallel processing
@@ -44,7 +44,7 @@ brew install libomp sdl2
 vcpkg install openmp sdl2
 ```
 
-## 🚀 Compilation and Execution
+## Compilation and Execution
 
 ### Compile the Program
 ```bash
